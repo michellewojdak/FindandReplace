@@ -1,0 +1,3 @@
+Name: Maria
+Grade: 10
+Mark: 72
